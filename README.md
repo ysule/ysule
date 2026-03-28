@@ -6,7 +6,7 @@ Data Engineer
 
 I started programming on Python and then moved onto Scala for my Data Engineering tasks. I have a keen interest inend to end design and development of Data pipelines. When I am not programming I teach myself the nuances of Devops practices
 
-*   🌍  I'm based in Bangkok City
+*   🌍  I'm based in India
 <a href="https://www.twitter.com/negligentindian" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/negligentindian?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a><a href="https://www.github.com/ysule" target="_blank" rel="noreferrer"><img
